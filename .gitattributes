@@ -1,0 +1,11 @@
+# Always use LF for code
+*.py text eol=lf
+*.ipynb text eol=lf
+*.txt text eol=lf
+
+# Binary files (don’t touch line endings)
+*.png binary
+*.jpg binary
+*.h5 binary
+*.pt binary
+*.pkl binary
